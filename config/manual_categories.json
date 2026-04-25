@@ -1,0 +1,9 @@
+{
+  "_notes": [
+    "Optional overrides for repositories where your own category should win.",
+    "Use repo full names exactly as GitHub reports them, for example: owner/name.",
+    "topic_categories maps GitHub repo topics to one or more custom categories."
+  ],
+  "repos": {},
+  "topic_categories": {}
+}

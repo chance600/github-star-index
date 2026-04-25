@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<github_star_index version="1.0" source_user="sample-user" generated_at="2026-04-24T00:00:00+00:00" repository_count="2">
+  <metadata>
+    <source>GitHub REST API starred repositories endpoint</source>
+    <list_limitation>GitHub REST starring endpoints expose starred repositories and topics, but not user-created star lists.</list_limitation>
+    <profile login="sample-user" name="Sample User" html_url="https://github.com/sample-user" public_repos="3" followers="1" following="2" />
+  </metadata>
+  <category_taxonomy>
+    <category id="ai-agents" name="AI Agents and Orchestration" description="Agent frameworks, autonomous workflows, tool use, MCP, and multi-agent systems." />
+    <category id="llm-apps" name="LLM Applications and Chat" description="Chat apps, copilots, prompt tooling, assistants, and applied LLM products." />
+    <category id="rag-memory" name="RAG, Memory, and Knowledge Systems" description="Retrieval, vector search, embeddings, long-term memory, and knowledge graph systems." />
+    <category id="code-devtools" name="Code Agents and Developer Tools" description="Coding assistants, CLIs, IDE tooling, code search, and software engineering automation." />
+    <category id="automation-browser" name="Automation, Browser, and Workflow Ops" description="Browser automation, RPA, schedulers, scrapers, and workflow automation platforms." />
+    <category id="data-research" name="Data, Research, and Analytics" description="Research tooling, datasets, notebooks, analytics, data extraction, and evaluation." />
+    <category id="media-generation" name="Image, Video, and Generative Media" description="Image generation, video generation, diffusion, multimodal creation, and creative AI." />
+    <category id="audio-speech" name="Audio, Speech, and Music" description="Speech, transcription, voice, music generation, audio processing, and listening systems." />
+    <category id="frontend-ui" name="Frontend, UI, and Design Systems" description="Frontend frameworks, UI components, visualization, and design systems." />
+    <category id="infra-platform" name="Infrastructure, Platform, and Observability" description="Deployment, cloud, databases, queues, observability, containers, and platform engineering." />
+    <category id="security-privacy" name="Security and Privacy" description="Security research, privacy tools, auth, sandboxing, secrets, and defensive engineering." />
+    <category id="science-bio" name="Science, Bio, and Healthcare" description="Biology, chemistry, medicine, health, scientific computing, and lab automation." />
+    <category id="business-productivity" name="Business, Sales, and Productivity" description="Business automation, CRM, marketing, finance, productivity, and operations tooling." />
+    <category id="education-content" name="Education, Docs, and Content" description="Documentation, learning resources, courses, publishing, and content tooling." />
+    <category id="general-development" name="General Development" description="Useful repositories without a stronger category signal." />
+  </category_taxonomy>
+  <summary>
+    <totals repositories="2" archived="0" forks="0" templates="0" />
+    <category_counts>
+      <category name="AI Agents and Orchestration" count="2" />
+      <category name="RAG, Memory, and Knowledge Systems" count="1" />
+      <category name="Data, Research, and Analytics" count="1" />
+      <category name="Automation, Browser, and Workflow Ops" count="1" />
+    </category_counts>
+    <language_counts>
+      <language name="Python" count="1" />
+      <language name="TypeScript" count="1" />
+    </language_counts>
+    <top_topics>
+      <topic name="agent" count="2" />
+      <topic name="memory" count="1" />
+      <topic name="rag" count="1" />
+      <topic name="python" count="1" />
+      <topic name="automation" count="1" />
+      <topic name="playwright" count="1" />
+    </top_topics>
+  </summary>
+  <repositories>
+    <repository id="101" node_id="R_kgDOAAB" full_name="example/agent-memory-kit" owner="example" name="agent-memory-kit" visibility="public" private="false" fork="false" archived="false" disabled="false" template="false">
+      <description>Toolkit for agent memory and retrieval experiments.</description>
+      <homepage>https://example.com/agent-memory-kit</homepage>
+      <llm_use>Use to design retrieval, memory, semantic indexing, and knowledge-grounded LLM systems.</llm_use>
+      <urls>
+        <html>https://github.com/example/agent-memory-kit</html>
+        <clone_https>https://github.com/example/agent-memory-kit.git</clone_https>
+        <clone_ssh>git@github.com:example/agent-memory-kit.git</clone_ssh>
+        <api>https://api.github.com/repos/example/agent-memory-kit</api>
+      </urls>
+      <categories>
+        <category id="rag-memory" source="inferred" rank="1">RAG, Memory, and Knowledge Systems</category>
+        <category id="ai-agents" source="inferred" rank="2">AI Agents and Orchestration</category>
+        <category id="data-research" source="inferred" rank="3">Data, Research, and Analytics</category>
+      </categories>
+      <topics>
+        <topic>agent</topic>
+        <topic>memory</topic>
+        <topic>rag</topic>
+        <topic>python</topic>
+      </topics>
+      <primary_language>Python</primary_language>
+      <license key="mit" spdx_id="MIT" name="MIT License" />
+      <metrics stars="420" watchers="420" forks="42" open_issues="3" size_kb="512" />
+      <activity starred_at="2026-04-23T12:00:00Z" created_at="2025-01-01T00:00:00Z" updated_at="2026-04-23T10:00:00Z" pushed_at="2026-04-23T09:30:00Z" default_branch="main" />
+      <features issues="true" pull_requests="true" projects="false" downloads="true" wiki="false" pages="false" discussions="true" />
+    </repository>
+    <repository id="102" node_id="R_kgDOAAC" full_name="example/playwright-ops" owner="example" name="playwright-ops" visibility="public" private="false" fork="false" archived="false" disabled="false" template="false">
+      <description>Browser automation workflows for agent operations.</description>
+      <homepage />
+      <llm_use>Use to build operational automations, browser workflows, and repeatable task pipelines.</llm_use>
+      <urls>
+        <html>https://github.com/example/playwright-ops</html>
+        <clone_https>https://github.com/example/playwright-ops.git</clone_https>
+        <clone_ssh>git@github.com:example/playwright-ops.git</clone_ssh>
+        <api>https://api.github.com/repos/example/playwright-ops</api>
+      </urls>
+      <categories>
+        <category id="automation-browser" source="inferred" rank="1">Automation, Browser, and Workflow Ops</category>
+        <category id="ai-agents" source="inferred" rank="2">AI Agents and Orchestration</category>
+      </categories>
+      <topics>
+        <topic>automation</topic>
+        <topic>playwright</topic>
+        <topic>agent</topic>
+      </topics>
+      <primary_language>TypeScript</primary_language>
+      <license key="apache-2.0" spdx_id="Apache-2.0" name="Apache License 2.0" />
+      <metrics stars="210" watchers="210" forks="12" open_issues="1" size_kb="256" />
+      <activity starred_at="2026-04-22T08:30:00Z" created_at="2025-02-10T00:00:00Z" updated_at="2026-04-22T07:45:00Z" pushed_at="2026-04-22T07:00:00Z" default_branch="main" />
+      <features issues="true" pull_requests="true" projects="false" downloads="true" wiki="false" pages="false" discussions="false" />
+    </repository>
+  </repositories>
+</github_star_index>

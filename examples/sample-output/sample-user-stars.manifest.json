@@ -1,0 +1,29 @@
+{
+  "artifacts": {
+    "raw_json": "examples/sample-output/sample-user-stars.raw.json",
+    "summary": "examples/sample-output/sample-user-stars.summary.md",
+    "xml": "examples/sample-output/sample-user-stars.xml"
+  },
+  "generated_at": "2026-04-24T00:00:00+00:00",
+  "inputs": {
+    "manual_categories": "config/manual_categories.json"
+  },
+  "metadata": {
+    "profile": {
+      "followers": 1,
+      "following": 2,
+      "html_url": "https://github.com/sample-user",
+      "login": "sample-user",
+      "name": "Sample User",
+      "public_repos": 3
+    },
+    "rate": {
+      "limit": "60",
+      "remaining": "59",
+      "reset": "0"
+    }
+  },
+  "repository_count": 2,
+  "schema_version": "0.1.0",
+  "source_user": "sample-user"
+}

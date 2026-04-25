@@ -1,0 +1,13 @@
+{
+  "artifacts": {
+    "categories": "examples/sample-output/corpus/categories.jsonl",
+    "chunks": "examples/sample-output/corpus/chunks.jsonl",
+    "repositories": "examples/sample-output/corpus/repos.jsonl"
+  },
+  "category_count": 4,
+  "chunk_count": 6,
+  "generated_at": "2026-04-24T00:00:00+00:00",
+  "repository_count": 2,
+  "schema_version": "0.1.0",
+  "source_user": "sample-user"
+}

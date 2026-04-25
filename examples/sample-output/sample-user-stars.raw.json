@@ -1,0 +1,128 @@
+{
+  "generated_at": "2026-04-24T00:00:00+00:00",
+  "metadata": {
+    "profile": {
+      "login": "sample-user",
+      "name": "Sample User",
+      "html_url": "https://github.com/sample-user",
+      "public_repos": 3,
+      "followers": 1,
+      "following": 2
+    },
+    "rate": {
+      "limit": "60",
+      "remaining": "59",
+      "reset": "0"
+    }
+  },
+  "source_user": "sample-user",
+  "stars": [
+    {
+      "starred_at": "2026-04-23T12:00:00Z",
+      "repo": {
+        "id": 101,
+        "node_id": "R_kgDOAAB",
+        "name": "agent-memory-kit",
+        "full_name": "example/agent-memory-kit",
+        "private": false,
+        "owner": {
+          "login": "example"
+        },
+        "html_url": "https://github.com/example/agent-memory-kit",
+        "description": "Toolkit for agent memory and retrieval experiments.",
+        "fork": false,
+        "url": "https://api.github.com/repos/example/agent-memory-kit",
+        "clone_url": "https://github.com/example/agent-memory-kit.git",
+        "ssh_url": "git@github.com:example/agent-memory-kit.git",
+        "homepage": "https://example.com/agent-memory-kit",
+        "size": 512,
+        "stargazers_count": 420,
+        "watchers_count": 420,
+        "language": "Python",
+        "has_issues": true,
+        "has_projects": false,
+        "has_downloads": true,
+        "has_wiki": false,
+        "has_pages": false,
+        "has_discussions": true,
+        "forks_count": 42,
+        "archived": false,
+        "disabled": false,
+        "open_issues_count": 3,
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT"
+        },
+        "has_pull_requests": true,
+        "topics": [
+          "agent",
+          "memory",
+          "rag",
+          "python"
+        ],
+        "visibility": "public",
+        "forks": 42,
+        "open_issues": 3,
+        "watchers": 420,
+        "default_branch": "main",
+        "created_at": "2025-01-01T00:00:00Z",
+        "updated_at": "2026-04-23T10:00:00Z",
+        "pushed_at": "2026-04-23T09:30:00Z"
+      }
+    },
+    {
+      "starred_at": "2026-04-22T08:30:00Z",
+      "repo": {
+        "id": 102,
+        "node_id": "R_kgDOAAC",
+        "name": "playwright-ops",
+        "full_name": "example/playwright-ops",
+        "private": false,
+        "owner": {
+          "login": "example"
+        },
+        "html_url": "https://github.com/example/playwright-ops",
+        "description": "Browser automation workflows for agent operations.",
+        "fork": false,
+        "url": "https://api.github.com/repos/example/playwright-ops",
+        "clone_url": "https://github.com/example/playwright-ops.git",
+        "ssh_url": "git@github.com:example/playwright-ops.git",
+        "homepage": null,
+        "size": 256,
+        "stargazers_count": 210,
+        "watchers_count": 210,
+        "language": "TypeScript",
+        "has_issues": true,
+        "has_projects": false,
+        "has_downloads": true,
+        "has_wiki": false,
+        "has_pages": false,
+        "has_discussions": false,
+        "forks_count": 12,
+        "archived": false,
+        "disabled": false,
+        "open_issues_count": 1,
+        "license": {
+          "key": "apache-2.0",
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0"
+        },
+        "has_pull_requests": true,
+        "topics": [
+          "automation",
+          "playwright",
+          "agent"
+        ],
+        "visibility": "public",
+        "forks": 12,
+        "open_issues": 1,
+        "watchers": 210,
+        "default_branch": "main",
+        "created_at": "2025-02-10T00:00:00Z",
+        "updated_at": "2026-04-22T07:45:00Z",
+        "pushed_at": "2026-04-22T07:00:00Z"
+      }
+    }
+  ]
+}
