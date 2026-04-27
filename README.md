@@ -4,7 +4,7 @@ Build deterministic, agent-ready knowledge artifacts from GitHub stars.
 
 This repo is intentionally not a stars browser or hosted organizer. It is a local-first corpus builder for agents, long-context LLMs, and automation workflows.
 
-This OSS workspace is separate from the operational local instance. It is intended for packaging, fixtures, tests, and public-safe examples. Generated personal star data is not tracked here.
+This repository ships the tooling only. Keep live star caches and personal generated datasets in local, untracked output directories.
 
 Package name: `github-star-index`  
 CLI: `star-index`

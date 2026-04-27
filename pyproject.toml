@@ -10,7 +10,13 @@ readme = "README.md"
 requires-python = ">=3.11"
 license = { text = "MIT" }
 authors = [{ name = "Alec Brewer" }]
+keywords = ["github", "stars", "llm", "agents", "automation", "xml", "jsonl", "cli"]
 dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/chance600/github-star-index"
+Repository = "https://github.com/chance600/github-star-index"
+Issues = "https://github.com/chance600/github-star-index/issues"
 
 [project.scripts]
 star-index = "star_index.cli:main"
